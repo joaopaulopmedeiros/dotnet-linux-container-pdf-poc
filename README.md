@@ -1,7 +1,7 @@
 # dotnet-linux-container-pdf-poc
 
 ## Can I generate PDF documents using .NET on linux?
-Yes, you can! This repo is a console .NET Core 3.1 application conteinerized which shows an example of how to convert HTML into PDF. Enjoy it!
+Yes, you can! This repo is a console .NET Core 3.1 conteinerized application which shows an example of how to convert HTML into PDF. Enjoy it!
 
 ## License
 - AGPL: Free;
